@@ -2,7 +2,7 @@
 
 Este proyecto tiene como objetivo la construcción automatizada de una **tabla de hechos** (fact table), diseñada para análisis de datos y modelado dimensional, a partir de múltiples fuentes de datos heterogéneas . Utiliza procesamiento y transformación de datos en Python, asegurando limpieza, consistencia y escalabilidad.
 se ha usado   conjunto de  Datos de población de vehículos eléctricos :  vehículos eléctricos de batería (BEV) y los vehículos eléctricos híbridos enchufables (PHEV) que actualmente están registrados a través del Departamento de Licencias del Estado de Washington (DOL).
----
+
 
 ## ⚙️ ¿Qué es una Tabla de Hechos?
 
