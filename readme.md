@@ -46,5 +46,5 @@ Se emplean librerías de ciencia de datos como:
 
 ---
 
-## 🧩 Estructura del Proyecto
+
 
