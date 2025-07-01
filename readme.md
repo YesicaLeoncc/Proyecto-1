@@ -24,7 +24,7 @@ Una **tabla de hechos** almacena métricas cuantitativas que se pueden analizar,
 
 - 🧾 Archivos  (CSV)
 - 🛠️ Bases de datos relacionales 
-- ☁️  fuentes en la nube 
+- ☁️  fuentes en la nube (https://catalog.data.gov/dataset/electric-vehicle-population-data) 
 
 
 Cada una de estas fuentes pasa por un proceso de transformación que las normaliza y estandariza para su integración.
@@ -38,7 +38,7 @@ Se emplean librerías de ciencia de datos como:
 - `pandas` – para carga, limpieza y transformación de datos
 - `sqlalchemy` / `pyodbc` – para conexión a bases de datos
 - `openpyxl` / `xlrd` – para manejar archivos Excel
-- `dotenv` – para gestión segura de credenciales
+
 
 ### 🔄 Proceso ETL Simplificado
 
